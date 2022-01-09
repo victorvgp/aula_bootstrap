@@ -1,0 +1,66 @@
+/* Menu */
+
+body {
+    font: 20px arial sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+}
+
+.navbar {
+    background-color: #581d22;
+}
+
+.navbar .navbar-brand img {
+    width: 100px;
+}
+
+.navbar .collapse .navbar-nav .nav-item .nav-link {
+    color: white;
+}
+
+
+/* Quem Somos */
+
+.quemSomos {
+    background-color: #965d5c;
+}
+
+.margin-container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+/* Parceiros */
+
+.parceiros {
+    background-color: #d98658;
+}
+
+
+/* Serviços */
+
+.servicos {
+    background-color: #955251;
+}
+
+
+/* footer */
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
+
+.margin-footer {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
